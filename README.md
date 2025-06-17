@@ -1,2 +1,3 @@
 # steprr
-An open-source RL-driven bipedal robot project
+An open-source RL-driven bipedal robot project\
+nigaboss
