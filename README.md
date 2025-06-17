@@ -51,7 +51,7 @@ Feel free to contribute.
 ---
 
 ## 🎛️ Directory Structure
-Directories will approximately as follows:
+Directories will approximately be as follows:
 
 ```text
 .
